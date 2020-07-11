@@ -1,2 +1,3 @@
 I have created a document for testing putpose......
 Jenkin Configuring
+Now Runnig Jenkin
